@@ -22,7 +22,7 @@ const Header = () => {
           <li className="mx-2 hover:text-violet-500 hover:cursor-pointer dark:hover:text-slate-500"><a href="#contact">contact</a></li>
           <li className="mx-2 hover:text-violet-500 hover:cursor-pointer dark:hover:text-slate-500"><a href="https://github.com/FreudOvando" target="_blank">github</a></li>
           
-          <li className="mx-2 hover:text-violet-500 hover:cursor-pointer dark:hover:text-slate-500"><a href="https://github.com/FreudOvando" target="_blank">Spanish</a></li>
+          <li className="mx-2 hover:text-violet-500 hover:cursor-pointer dark:hover:text-slate-500"><a href="https://website-portfolio-spanish-fol.netlify.app/" target="_blank">Version Spanish</a></li>
           <label className="relative inline-block w-10 h-6 mx-0">
             <input
               onClick={toggleDarkMode}
